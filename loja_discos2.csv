@@ -1,0 +1,21 @@
+id_cliente,nome_cliente,telefone,total_consumido,ticket_medio,data_ultima_compra,consumiu_musica_brasileira,consumiu_jazz_hip_hop_internacional,categoria_produto
+1,Jerry Jones,286182846,227.08054135811136,55.65,2023-10-11,Não,Sim,Jazz/Hip Hop Internacional
+2,Julie Tate,787395503,63.61631424814844,6.66,2023-01-23,Sim,Não,Música Brasileira
+3,Christopher Wiggins,376572192,140.28765514430506,14.96,2023-09-01,Não,Não,Outros
+4,Ebony Strong,595096627,352.05975312960084,124.99,2023-09-09,Não,Não,Outros
+5,Austin Johnson,132117077,104.8255186844063,12.19,2023-02-12,Não,Não,Outros
+6,Karen Howard,494578484,343.87454563686146,69.0,2022-12-29,Sim,Não,Música Brasileira
+7,Jacob Adams,548752061,72.39981982903022,23.35,2023-09-09,Não,Sim,Jazz/Hip Hop Internacional
+8,Robert Russo,878246886,381.42539887358475,71.46,2023-07-17,Não,Sim,Jazz/Hip Hop Internacional
+9,Alexandria Bowen,349824510,423.433593482113,160.61,2023-02-28,Não,Sim,Jazz/Hip Hop Internacional
+10,Sarah Figueroa,377144790,108.12284416573178,13.06,2023-06-20,Não,Sim,Jazz/Hip Hop Internacional
+11,Nicholas Kelly,702651785,239.98591916678112,32.5,2023-07-16,Não,Não,Outros
+12,Ryan Martin,610605557,143.8982310709775,131.0,2023-07-14,Não,Sim,Jazz/Hip Hop Internacional
+13,Lisa Mora,856054126,101.02006946967957,16.72,2022-11-24,Não,Não,Outros
+14,Emma Clark,485580121,415.93792064875566,44.8,2023-07-10,Não,Sim,Jazz/Hip Hop Internacional
+15,Mary Johnson,427026298,549.6739808174423,77.23,2023-06-20,Não,Sim,Jazz/Hip Hop Internacional
+16,Jerome Lee,159874386,113.80290034991931,16.69,2023-02-03,Sim,Não,Música Brasileira
+17,Julie Hudson,947035638,445.892464083813,91.41,2023-03-15,Não,Sim,Jazz/Hip Hop Internacional
+18,Ryan Gates,413288037,301.7361523863317,39.02,2022-12-06,Não,Sim,Jazz/Hip Hop Internacional
+19,Antonio Cox,273295274,337.9179189808539,79.4,2023-02-18,Não,Sim,Jazz/Hip Hop Internacional
+20,Alicia Flores,208532312,453.6847294060918,46.89,2023-01-01,Sim,Não,Música Brasileira
